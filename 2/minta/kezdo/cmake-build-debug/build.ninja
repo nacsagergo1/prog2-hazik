@@ -49,12 +49,6 @@ cmake_ninja_workdir = D$:/Egyetem/VIII.felev/Prog2/gyak/HF/2/minta/kezdo/cmake-b
 
 build cmake_object_order_depends_target_kezdo: phony || .
 
-build CMakeFiles/kezdo.dir/main.cpp.obj: CXX_COMPILER__kezdo_unscanned_Debug D$:/Egyetem/VIII.felev/Prog2/gyak/HF/2/minta/kezdo/main.cpp || cmake_object_order_depends_target_kezdo
-  DEP_FILE = CMakeFiles\kezdo.dir\main.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\kezdo.dir
-  OBJECT_FILE_DIR = CMakeFiles\kezdo.dir
-
 build CMakeFiles/kezdo.dir/feladat-minta.cpp.obj: CXX_COMPILER__kezdo_unscanned_Debug D$:/Egyetem/VIII.felev/Prog2/gyak/HF/2/minta/kezdo/feladat-minta.cpp || cmake_object_order_depends_target_kezdo
   DEP_FILE = CMakeFiles\kezdo.dir\feladat-minta.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
@@ -69,7 +63,7 @@ build CMakeFiles/kezdo.dir/feladat-minta.cpp.obj: CXX_COMPILER__kezdo_unscanned_
 #############################################
 # Link the executable kezdo.exe
 
-build kezdo.exe: CXX_EXECUTABLE_LINKER__kezdo_Debug CMakeFiles/kezdo.dir/main.cpp.obj CMakeFiles/kezdo.dir/feladat-minta.cpp.obj
+build kezdo.exe: CXX_EXECUTABLE_LINKER__kezdo_Debug CMakeFiles/kezdo.dir/feladat-minta.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\kezdo.dir

@@ -1,12 +1,4 @@
 # ninja log v6
-4	411	7627005100000000	build.ninja	e4a2e86379c2c84d
-1	676	7627005318100000	CMakeFiles/kezdo.dir/feladat-minta.cpp.obj	3a2409db92b14ca4
-677	1355	7627005340000000	kezdo.exe	a118fdba2b485da1
-23	712	7627005859700000	CMakeFiles/kezdo.dir/feladat-minta.cpp.obj	3a2409db92b14ca4
-713	891	7627005880000000	kezdo.exe	a118fdba2b485da1
-6	679	7627005859700000	CMakeFiles/kezdo.dir/feladat-minta.cpp.obj	3a2409db92b14ca4
-680	831	7627006040000000	kezdo.exe	a118fdba2b485da1
-6	668	7627006182500000	CMakeFiles/kezdo.dir/feladat-minta.cpp.obj	3a2409db92b14ca4
-668	812	7627006200000000	kezdo.exe	a118fdba2b485da1
-52	945	7627008207200000	CMakeFiles/kezdo.dir/feladat-minta.cpp.obj	3a2409db92b14ca4
+4	411	7630721160000000	build.ninja	e4a2e86379c2c84d
 945	1174	7627008220000000	kezdo.exe	a118fdba2b485da1
+52	945	7627008207200000	CMakeFiles/kezdo.dir/feladat-minta.cpp.obj	3a2409db92b14ca4

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/Egyetem/VIII.felev/Prog2/gyak/HF/2/minta/kezdo/cmake-build-prog2"
+			"value" : "d:/Egyetem/VIII.felev/Prog2/gyak/HF/3/minta/kezdo/cmake-build-prog2"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Egyetem/VIII.felev/Prog2/gyak/HF/2/minta/kezdo/cmake-build-prog2/CMakeFiles/pkgRedirects"
+			"value" : "D:/Egyetem/VIII.felev/Prog2/gyak/HF/3/minta/kezdo/cmake-build-prog2/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Egyetem/VIII.felev/Prog2/gyak/HF/2/minta/kezdo"
+			"value" : "D:/Egyetem/VIII.felev/Prog2/gyak/HF/3/minta/kezdo"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -687,7 +687,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/ninja/win/x64/ninja.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -1291,7 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Egyetem/VIII.felev/Prog2/gyak/HF/2/minta/kezdo/cmake-build-prog2"
+			"value" : "D:/Egyetem/VIII.felev/Prog2/gyak/HF/3/minta/kezdo/cmake-build-prog2"
 		},
 		{
 			"name" : "kezdo_IS_TOP_LEVEL",
@@ -1315,7 +1315,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Egyetem/VIII.felev/Prog2/gyak/HF/2/minta/kezdo"
+			"value" : "D:/Egyetem/VIII.felev/Prog2/gyak/HF/3/minta/kezdo"
 		}
 	],
 	"kind" : "cache",
