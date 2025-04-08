@@ -1,0 +1,3 @@
+D:/Egyetem/VIII.felev/Prog2/gyak/HF/5/minta/kezdo/cmake-build-prog2/CMakeFiles/kezdo.dir
+D:/Egyetem/VIII.felev/Prog2/gyak/HF/5/minta/kezdo/cmake-build-prog2/CMakeFiles/edit_cache.dir
+D:/Egyetem/VIII.felev/Prog2/gyak/HF/5/minta/kezdo/cmake-build-prog2/CMakeFiles/rebuild_cache.dir
